@@ -1,0 +1,27 @@
+.blauw {
+    color: blue;
+}
+.grijs {
+    color: gray;
+}
+.zwart {
+    color: black;
+}
+.rood {
+    color:red;
+}
+.oranje {
+    color: orange;
+}
+.paars {
+    color: purple;
+}
+.roos {
+    color: hotpink;
+}
+.dertigPX {
+    font-size: 30px;
+}
+.onderlijnd {
+    text-decoration: underline;
+}
